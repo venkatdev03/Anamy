@@ -60,5 +60,5 @@
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
         }
     });
-
+//This is a comment 
 })(jQuery); // End of use strict
